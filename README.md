@@ -1,6 +1,6 @@
 # سلتنا · Basketna
 
-[![CI](https://github.com/YOUR-ACCOUNT/basketna/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-ACCOUNT/basketna/actions/workflows/ci.yml)
+[![CI](https://github.com/Budy2007/basketna-test/actions/workflows/ci.yml/badge.svg)](https://github.com/Budy2007/basketna-test/actions/workflows/ci.yml)
 
 Plan a week of Egyptian meals and see where the whole basket is cheapest, using dated prices from Cairo shops.
 
